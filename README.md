@@ -1,0 +1,1 @@
+`This is a markdown text for zero_day repo`
